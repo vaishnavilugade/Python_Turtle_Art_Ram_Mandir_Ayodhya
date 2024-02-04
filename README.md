@@ -1,4 +1,4 @@
-# Ram-Mandir-using-python-turtle
+# Python Turtle Art : Ram Mandir Ayodhya
 
 ![Last Commit](https://img.shields.io/github/last-commit/vaishnavilugade/Ram-Mandir-using-python-turtle) 
 ![Stars](https://img.shields.io/github/stars/vaishnavilugade/Ram-Mandir-using-python-turtle)
